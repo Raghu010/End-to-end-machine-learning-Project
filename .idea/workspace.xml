@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cefa79e6-930c-49f5-9f37-6e673523349b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/mlproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mlproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -48,8 +50,9 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Public/Documents&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Documents/datasets/stud.csv&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -68,7 +71,11 @@
       <updated>1680687692707</updated>
       <workItem from="1680687692715" duration="4697000" />
       <workItem from="1680763371081" duration="9977000" />
-      <workItem from="1680776007902" duration="1952000" />
+      <workItem from="1680776007902" duration="2584000" />
+      <workItem from="1680840263098" duration="9400000" />
+      <workItem from="1680871835227" duration="1094000" />
+      <workItem from="1680937909723" duration="12375000" />
+      <workItem from="1681117323867" duration="250000" />
     </task>
     <servers />
   </component>

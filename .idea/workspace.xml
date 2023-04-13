@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cefa79e6-930c-49f5-9f37-6e673523349b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pipeline/predict_pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pipeline/predict_pipeline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +74,10 @@
       <workItem from="1680937909723" duration="12375000" />
       <workItem from="1681117323867" duration="11965000" />
       <workItem from="1681184709855" duration="6742000" />
-      <workItem from="1681287321769" duration="6494000" />
+      <workItem from="1681287321769" duration="6724000" />
+      <workItem from="1681297065241" duration="1194000" />
+      <workItem from="1681363783418" duration="599000" />
+      <workItem from="1681364450062" duration="830000" />
     </task>
     <servers />
   </component>
